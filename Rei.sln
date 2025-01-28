@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rei.Presentation", "Rei.Presentation\Rei.Presentation.csproj", "{28864600-D45A-4197-B82C-7C6E1977ACD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rei.Domain", "Rei.Domain\Rei.Domain.csproj", "{F8394FAD-4710-40F3-90D6-D30CE5978228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rei.Infrastructure", "Rei.Infrastructure\Rei.Infrastructure.csproj", "{A4197764-17B5-49D6-965D-824A4B998743}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{28864600-D45A-4197-B82C-7C6E1977ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28864600-D45A-4197-B82C-7C6E1977ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28864600-D45A-4197-B82C-7C6E1977ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8394FAD-4710-40F3-90D6-D30CE5978228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8394FAD-4710-40F3-90D6-D30CE5978228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8394FAD-4710-40F3-90D6-D30CE5978228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8394FAD-4710-40F3-90D6-D30CE5978228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4197764-17B5-49D6-965D-824A4B998743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4197764-17B5-49D6-965D-824A4B998743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4197764-17B5-49D6-965D-824A4B998743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4197764-17B5-49D6-965D-824A4B998743}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
